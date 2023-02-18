@@ -9,7 +9,7 @@
 *.o
 *.so
 *.so.*
-
+out/
 # Exclude editor config
 .vscode/
 .vs/
@@ -29,3 +29,4 @@ Info.framework.plist
 __pycache__/
 *.py[cod]
 *$py.class
+mujoco-2.3.2-windows-x86_64.zip

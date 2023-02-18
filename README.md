@@ -1,3 +1,9 @@
+[ NOTE: run prebuilt bin.  BAH]
+# download download 👇🏽  and unpack into /out
+# 👉🏽 mujoco-2.3.2-windows-x86_64.zip 
+set PATH=%PATH%;C:\repo\mujoco\out\bin
+simulate C:\repo\mujoco\model\humanoid\humanoid.xml
+
 <h1>
   <a href="#"><img alt="MuJoCo" src="banner.png" width="100%"/></a>
 </h1>
