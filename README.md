@@ -1,5 +1,6 @@
 [ NOTE: run prebuilt bin.  BAH]
 # download download 👇🏽  and unpack into /out
+https://github.com/deepmind/mujoco/releases
 # 👉🏽 mujoco-2.3.2-windows-x86_64.zip 
 set PATH=%PATH%;C:\repo\mujoco\out\bin
 simulate C:\repo\mujoco\model\humanoid\humanoid.xml
